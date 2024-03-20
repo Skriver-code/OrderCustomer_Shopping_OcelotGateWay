@@ -1,0 +1,64 @@
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\appsettings.json
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.exe
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.deps.json
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.runtimeconfig.json
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.dll
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.pdb
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.AssemblyReference.cache
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.AssemblyInfoInputs.cache
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.AssemblyInfo.cs
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.Orders_ShoppingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.build.Orders_ShoppingApp.props
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Orders_ShoppingApp.props
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Orders_ShoppingApp.props
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\scopedcss\bundle\Orders_ShoppingApp.styles.css
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.CopyComplete
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.dll
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\refint\Orders_ShoppingApp.dll
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.pdb
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.genruntimeconfig.cache
+C:\Users\moal\source\repos\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\ref\Orders_ShoppingApp.dll
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\appsettings.json
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.exe
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.deps.json
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.runtimeconfig.json
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.dll
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Orders_ShoppingApp.pdb
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.AssemblyReference.cache
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.AssemblyInfoInputs.cache
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.AssemblyInfo.cs
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.Orders_ShoppingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.build.Orders_ShoppingApp.props
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Orders_ShoppingApp.props
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Orders_ShoppingApp.props
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\scopedcss\bundle\Orders_ShoppingApp.styles.css
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_S.81C31551.Up2Date
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.dll
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\refint\Orders_ShoppingApp.dll
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.pdb
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\Orders_ShoppingApp.genruntimeconfig.cache
+C:\Users\skriv\OneDrive - EFIF\Skrivebord\3. semester opgaver\Orders_ShoppingApp\Orders_ShoppingApp\obj\Debug\net8.0\ref\Orders_ShoppingApp.dll

@@ -1,0 +1,33 @@
+{
+     "Routes": [
+       {
+         "DownstreamPathTemplate": "/orders",
+         "DownstreamScheme": "https",
+         "DownstreamHostAndPorts": [
+           {
+             "Host": "localhost",
+             "Port": "7132"
+           }
+         ],
+         "UpstreamPathTemplate": "/apigateway/orders",
+         "UpstreamHttpMethod": [
+           "GET", "POST", "PUT"
+         ]
+       },
+       {
+         "DownstreamPathTemplate": "/customers",
+         "DownstreamScheme": "https",
+         "DownstreamHostAndPorts": [
+           {
+             "Host": "localhost",
+             "Port": "7026"
+           }
+         ],
+         "UpstreamPathTemplate": "/apigateway/customers",
+         "UpstreamHttpMethod": [
+           "GET", "POST", "PUT"
+         ]
+       }
+     ]
+   }
+   
